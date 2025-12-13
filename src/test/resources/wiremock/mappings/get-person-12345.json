@@ -1,0 +1,13 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/persons/12345"
+  },
+  "response": {
+    "status": 200,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "bodyFileName": "get-person-12345-response.json"
+  }
+}

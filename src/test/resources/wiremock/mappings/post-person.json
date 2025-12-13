@@ -1,0 +1,18 @@
+{
+  "request": {
+    "method": "POST",
+    "url": "/persons",
+    "headers": {
+      "Content-Type": {
+        "equalTo": "application/json"
+      }
+    }
+  },
+  "response": {
+    "status": 201,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "bodyFileName": "post-person-response.json"
+  }
+}
