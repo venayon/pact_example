@@ -37,6 +37,8 @@ public class WireMockService {
     private static void setupStubs() {
 
         // ------------------------ GET /persons/12345 ----------------------------
+
+        //FIXME : move to files or cleaner approch 
         wireMockServer.stubFor(get(urlEqualTo("/persons/12345"))
                 .willReturn(aResponse()
                         .withStatus(200)
@@ -51,7 +53,7 @@ public class WireMockService {
                                 """)
                 ));
 
-        // ------------------------ POST /persons --------------------------------
+        // ------------------------ POST /persons ----------------------FIXME----------
         wireMockServer.stubFor(post(urlEqualTo("/persons"))
                 .withHeader("Content-Type", equalTo("application/json"))
                 .willReturn(aResponse()
