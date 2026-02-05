@@ -1,0 +1,16 @@
+{
+  "data": [
+    "Apartment 12",
+    "The Royal Chambers",
+    "45 Victoria Street",
+    "Westminster",
+    "London"
+  ],
+  "postcode": "SW1H 0NW",
+  "addressTypeId": "RESIDENTIAL",
+  "addressStatusType": "CURRENT",
+  "timeliness": {
+    "createdDate": "2023-09-20T11:15:30.000Z",
+    "lastUpdateDate": "2024-01-10T09:45:20.000Z"
+  }
+}

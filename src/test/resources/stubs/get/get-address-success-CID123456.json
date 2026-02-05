@@ -1,0 +1,14 @@
+{
+  "data": [
+    "Flat 5B",
+    "Westminster Palace",
+    "London"
+  ],
+  "postcode": "SW1A 1AA",
+  "addressTypeId": "RESIDENTIAL",
+  "addressStatusType": "CURRENT",
+  "timeliness": {
+    "createdDate": "2024-01-15T10:30:45.123Z",
+    "lastUpdateDate": "2024-02-01T14:20:30.456Z"
+  }
+}

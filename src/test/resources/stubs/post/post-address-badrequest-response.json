@@ -1,0 +1,8 @@
+{
+  "error": "BAD_REQUEST",
+  "message": "Missing required field: postcode",
+  "timestamp": "2024-02-04T12:00:00.000Z",
+  "validationErrors": [
+    "postcode is required"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "data": [
+    "Belfast City Hall",
+    "Donegall Square",
+    "Belfast"
+  ],
+  "postcode": "BT1 5GS",
+  "addressTypeId": "GOVERNMENT",
+  "addressStatusType": "CURRENT",
+  "timeliness": {
+    "createdDate": "2023-05-18T08:30:00.000Z",
+    "lastUpdateDate": "2023-11-28T15:10:00.000Z"
+  }
+}

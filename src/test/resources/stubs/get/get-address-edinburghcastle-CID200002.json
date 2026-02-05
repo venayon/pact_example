@@ -1,0 +1,14 @@
+{
+  "data": [
+    "Edinburgh Castle",
+    "Castlehill",
+    "Edinburgh"
+  ],
+  "postcode": "EH1 2NG",
+  "addressTypeId": "HISTORIC",
+  "addressStatusType": "CURRENT",
+  "timeliness": {
+    "createdDate": "2023-03-15T14:20:00.000Z",
+    "lastUpdateDate": "2023-12-01T16:45:00.000Z"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "data": [
+    "Flat 7C",
+    "Windsor Court",
+    "123 Kensington Road",
+    "Kensington",
+    "London"
+  ],
+  "postcode": "W8 5SA",
+  "addressTypeId": "RESIDENTIAL",
+  "addressStatusType": "CURRENT",
+  "timeliness": {
+    "createdDate": "2024-02-04T16:20:00.000Z",
+    "lastUpdateDate": "2024-02-04T16:20:00.000Z"
+  }
+}
